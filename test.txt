@@ -10,3 +10,5 @@ VSCodeから編集のテスト
 pull requestを送ってマージする方法
 
 testtest
+
+eclipseからコミット・プッシュします。
